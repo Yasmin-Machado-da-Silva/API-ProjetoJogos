@@ -165,3 +165,9 @@ C:\Users\39910759896\Desktop\Projeto-Jogos\ProjetoDeJogos\obj\Debug\net8.0\refin
 C:\Users\39910759896\Desktop\Projeto-Jogos\ProjetoDeJogos\obj\Debug\net8.0\ProjetoDeJogos.pdb
 C:\Users\39910759896\Desktop\Projeto-Jogos\ProjetoDeJogos\obj\Debug\net8.0\ProjetoDeJogos.genruntimeconfig.cache
 C:\Users\39910759896\Desktop\Projeto-Jogos\ProjetoDeJogos\obj\Debug\net8.0\ref\ProjetoDeJogos.dll
+C:\Users\39910759896\Desktop\Projeto-Jogos\ProjetoDeJogos\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\39910759896\Desktop\Projeto-Jogos\ProjetoDeJogos\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\39910759896\Desktop\Projeto-Jogos\ProjetoDeJogos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\39910759896\Desktop\Projeto-Jogos\ProjetoDeJogos\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\39910759896\Desktop\Projeto-Jogos\ProjetoDeJogos\obj\Debug\net8.0\ProjetoDeJogos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\39910759896\Desktop\Projeto-Jogos\ProjetoDeJogos\obj\Debug\net8.0\ProjetoDeJogos.sourcelink.json
