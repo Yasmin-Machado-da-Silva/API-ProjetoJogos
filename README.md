@@ -7,7 +7,7 @@
   <summary>
   ●-━━━━━━━━━━━━━━━━━-●
  </summary>
-❝O **ProjetoJogos** é um projeto voltado para o aprendizado no desenvolvimento de APIs utilizando **C#**. O objetivo é criar uma API para gerenciamento de jogos.❞
+❝O ProjetoJogos é um projeto voltado para o aprendizado no desenvolvimento de APIs utilizando C#. O objetivo é criar uma API para gerenciamento de jogos.❞
   <br>
 </details>
 
@@ -17,9 +17,14 @@
 
 ## 🚀 𝒪 𝓆𝓊𝑒 𝒿á 𝒻𝑜𝒾 𝒻𝑒𝒾𝓉𝑜 🛠️
 ✅ Implementação das **Interfaces**
+
 ✅ Criação dos **Domains**
+
 ✅ Configuração do **Context**
+
 ✅ Desenvolvimento dos **Repositories**
+
+✅ Desenvolvimento do **Program**
 
 ## ⚙️ 𝐶𝑜𝑚𝑜 𝐸𝑥𝑒𝑐𝑢𝑡𝑎𝑟 📝
 1. Configure o **SQL Server** e crie o banco de dados.
