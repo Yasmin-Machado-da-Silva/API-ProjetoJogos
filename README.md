@@ -16,15 +16,17 @@
 - **Linguagem**: C#
 
 ## 🚀 𝒪 𝓆𝓊𝑒 𝒿á 𝒻𝑜𝒾 𝒻𝑒𝒾𝓉𝑜 🛠️
-✅ Implementação das **Interfaces**
+✅ Interfaces Implementadas
 
-✅ Criação dos **Domains**
+✅ Domains Criados
 
-✅ Configuração do **Context**
+✅ Context Configurado
 
-✅ Desenvolvimento dos **Repositories**
+✅ Repositories Desenvolvidos
 
-✅ Desenvolvimento do **Program**
+✅ Program Estruturado
+
+✅ Controllers Configurados
 
 ## ⚙️ 𝐶𝑜𝑚𝑜 𝐸𝑥𝑒𝑐𝑢𝑡𝑎𝑟 📝
 1. Configure o **SQL Server** e crie o banco de dados.
@@ -33,7 +35,6 @@
 4. Inicie o servidor e use uma ferramenta como **Postman** para testar as requisições.
 
 ## 🔗 𝒫𝓇ó𝓍𝒾𝓂𝑜𝓈 𝒫𝒶𝓈𝓈𝑜𝓈 ➡️
-- Criar os **Controllers** para expor os endpoints
 - Implementar **autenticação e autorização**
 - Melhorar a **documentação** da API
 - Criar testes automatizados
