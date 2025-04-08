@@ -4,11 +4,11 @@ using ProjetoDeJogos.Interfaces;
 
 namespace ProjetoDeJogos.Repositories
 {
-    public class UsuariosRepository : IUsuarioRepository
+    public class UsuarioRepository : IUsuarioRepository
     {
         private readonly ProjetoJogosContext _context;
 
-        public UsuariosRepository(ProjetoJogosContext context)
+        public UsuarioRepository(ProjetoJogosContext context)
         {
             _context = context;
         }

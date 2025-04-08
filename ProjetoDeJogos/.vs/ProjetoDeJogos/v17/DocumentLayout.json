@@ -7,24 +7,32 @@
       "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|c:\\users\\39910759896\\desktop\\projeto-jogos\\projetodejogos\\contexts\\projetojogoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:contexts\\projetojogoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|c:\\users\\39910759896\\desktop\\projeto-jogos\\projetodejogos\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|c:\\users\\39910759896\\desktop\\projeto-jogos\\projetodejogos\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|c:\\users\\39910759896\\desktop\\projeto-jogos\\projetodejogos\\controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:controllers\\jogocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|c:\\users\\39910759896\\desktop\\projeto-jogos\\projetodejogos\\interfaces\\ijogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:interfaces\\ijogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|c:\\users\\39910759896\\desktop\\projeto-jogos\\projetodejogos\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|c:\\users\\39910759896\\desktop\\projeto-jogos\\projetodejogos\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|c:\\users\\39910759896\\desktop\\projeto-jogos\\projetodejogos\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|c:\\users\\39910759896\\desktop\\projeto-jogos\\projetodejogos\\interfaces\\ijogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:interfaces\\ijogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|c:\\users\\39910759896\\desktop\\projeto-jogos\\projetodejogos\\contexts\\projetojogoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:contexts\\projetojogoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|c:\\users\\39910759896\\desktop\\projeto-jogos\\projetodejogos\\repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65E1725B-3BBA-4D0C-B5DC-F0C6F28E0400}|ProjetoDeJogos.csproj|solutionrelative:repositories\\jogorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +42,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:42:19.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JogoController.cs",
+              "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Controllers\\JogoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JogoController.cs",
+              "ToolTip": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Controllers\\JogoController.cs",
+              "RelativeToolTip": "Controllers\\JogoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:36:09.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:32:56.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:22:16.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ProjetoJogosContext.cs",
               "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Contexts\\ProjetoJogosContext.cs",
               "RelativeDocumentMoniker": "Contexts\\ProjetoJogosContext.cs",
@@ -46,8 +106,7 @@
               "RelativeToolTip": "Contexts\\ProjetoJogosContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T19:49:16.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T19:49:16.283Z"
             },
             {
               "$type": "Document",
@@ -57,40 +116,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEAAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAEAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-03T19:29:47.218Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:40:06.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Interfaces\\IUsuarioRepository.cs",
-              "RelativeToolTip": "Interfaces\\IUsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:40:04.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "JogoRepository.cs",
               "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Repositories\\JogoRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\JogoRepository.cs",
@@ -98,12 +131,11 @@
               "RelativeToolTip": "Repositories\\JogoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:26:21.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T17:26:21.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IJogoRepository.cs",
               "DocumentMoniker": "C:\\Users\\39910759896\\Desktop\\Projeto-Jogos\\ProjetoDeJogos\\Interfaces\\IJogoRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IJogoRepository.cs",

@@ -29,7 +29,7 @@ builder.Services.AddDbContext<ProjetoJogosContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 //Adiciona o repositório e a interface ao container de injecao de dependência
-builder.Services.AddScoped<IUsuarioRepository, UsuariosRepository>();
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
 builder.Services.AddScoped<IJogoRepository, JogoRepository>();
 
 
@@ -45,12 +45,12 @@ builder.Services.AddSwaggerGen(options =>
     options.SwaggerDoc("v1", new OpenApiInfo
     {
         Version = "v1",
-        Title = "API de Eventos",
-        Description = "Aplicação para gerenciamento de eventos",
+        Title = "Projeto Jogos",
+        Description = "Aplicação - Projeto Jogos",
         TermsOfService = new Uri("https://example.com/terms"),
         Contact = new OpenApiContact
         {
-            Name = "Carlos Roque",
+            Name = "Yasmin Machado",
             Url = new Uri("https://www.linkedin.com/in/roquecarlos/")
         },
         License = new OpenApiLicense
